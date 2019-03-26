@@ -1,0 +1,11 @@
+# Virtual Env
+v-env/
+
+# secrets
+rds_config.py
+
+# VS Code
+.vscode/
+
+# Zipped function
+chart5function.zip
